@@ -19,5 +19,5 @@ This repo contains all files, used by the Volumio Builder to create a **Volumio 
 
 2019.05.21 Separated Primo from Tinkerboard, using Asus kernel 4.4.132 with a fix for the es90x8q2m frequency issue  
 
-
-
+2019.05.27 Change configuration: usb audio as a module
+2019.05.30 USB Audio: Support for additional DSD direct capable devices
